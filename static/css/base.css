@@ -2126,6 +2126,8 @@ margin-top: .8rem;
   margin-right: auto;
   margin-left: auto;
   display: block;
+  object-fit:scale-down;
+
 }
 /* Overlay */
 
