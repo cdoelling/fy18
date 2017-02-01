@@ -52,6 +52,16 @@
 	16. Print
 
 ----------------------------------------------------------------------------------- */
+/*particles-js*/
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #b61924;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
 
 /*=========================================
 0. CSS Reset & Normalize
@@ -2126,7 +2136,6 @@ margin-top: .8rem;
   margin-right: auto;
   margin-left: auto;
   display: block;
-  object-fit:scale-down;
 
 }
 /* Overlay */
