@@ -1,13 +1,13 @@
 /*=====================================================
-Important! 
+Important!
 /js/svg-icons.js is required.
 ======================================================= */
 
 /*=====================================================
-Font Awesome 4.4 as SVG Icons via http://fontastic.me  
+Font Awesome 4.4 as SVG Icons via http://fontastic.me
 class = .fa- (Go to https://fortawesome.github.io/Font-Awesome/icons/)
 
-SVG ICONS - Don't use icon fonts: 
+SVG ICONS - Don't use icon fonts:
 https://speakerdeck.com/ninjanails/death-to-fa-fonts
 ======================================================= */
 
@@ -2043,6 +2043,22 @@ svg {
 }
 
 .fa-battery-0 {
+	width: 1.285716611891985em;
+}
+
+.fa-battery-half {
+	width: 1.285716611891985em;
+}
+
+.fa-battery-three-quarters {
+	width: 1.285716611891985em;
+}
+
+.fa-battery-quarter {
+	width: 1.285716611891985em;
+}
+
+.fa-battery-empty {
 	width: 1.285716611891985em;
 }
 
